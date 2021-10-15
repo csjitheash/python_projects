@@ -4,7 +4,6 @@
 
 
 #
-#         CyberSecurityWorks         #
 #         By - C S JITHEASH           #
 
 
